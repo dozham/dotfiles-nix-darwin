@@ -43,6 +43,7 @@
           aerospace
           unar
           yarn
+          pnpm
         ];
 
         homebrew = {

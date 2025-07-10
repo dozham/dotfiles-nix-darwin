@@ -42,8 +42,8 @@
           ollama
           aerospace
           unar
-          yarn
           pnpm
+          obsidian
         ];
 
         homebrew = {

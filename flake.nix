@@ -44,13 +44,15 @@
           unar
           pnpm
           obsidian
+          sketchybar
+          zellij
         ];
 
         homebrew = {
           enable = true;
           casks = [
             "iina"
-            "docker"
+            # "docker"
             "ghostty"
           ];
           # onActivation.cleanup = "zap"; # Clean up casks on activation

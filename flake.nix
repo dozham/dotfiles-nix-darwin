@@ -46,13 +46,13 @@
           obsidian
           sketchybar
           zellij
+          docker
         ];
 
         homebrew = {
           enable = true;
           casks = [
             "iina"
-            # "docker"
             "ghostty"
           ];
           # onActivation.cleanup = "zap"; # Clean up casks on activation

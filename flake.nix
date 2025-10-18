@@ -47,10 +47,13 @@
           sketchybar
           zellij
           docker
+          starship
+          fish
         ];
 
         homebrew = {
           enable = true;
+
           casks = [
             "iina"
             "ghostty"

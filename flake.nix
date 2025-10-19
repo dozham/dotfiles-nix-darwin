@@ -49,6 +49,7 @@
           docker
           starship
           fish
+          ffmpeg
         ];
 
         homebrew = {

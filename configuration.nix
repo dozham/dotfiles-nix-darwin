@@ -28,7 +28,7 @@
     fish
     ffmpeg
     discord
-    php
+    php84
     # opencode
     # nodejs_24
   ];

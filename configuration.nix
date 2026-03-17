@@ -29,12 +29,18 @@
     ffmpeg
     discord
     php84
+    lazygit
+    mermaid-cli
     # opencode
     # nodejs_24
   ];
 
   homebrew = {
     enable = true;
+
+    brews = [
+      "jdtls"
+    ];
 
     casks = [
       "iina"

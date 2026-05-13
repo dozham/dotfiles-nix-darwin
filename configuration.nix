@@ -31,6 +31,8 @@
     php84
     lazygit
     mermaid-cli
+    php84Packages.composer
+    git-lfs
     # opencode
     # nodejs_24
   ];

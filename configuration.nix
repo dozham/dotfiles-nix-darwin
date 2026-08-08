@@ -33,6 +33,11 @@
     mermaid-cli
     php84Packages.composer
     git-lfs
+    google-cloud-sdk
+    keycastr
+    claude-code
+    rclone
+    markdownlint-cli
     # opencode
     # nodejs_24
   ];
